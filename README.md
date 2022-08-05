@@ -14,21 +14,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-<!-- ### Активность:
-
-<img width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardaoko&theme=radical">
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardaoko&theme=radical">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardaoko&theme=radical">
-</div>
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardaoko&theme=radical">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hardaoko&theme=radical&utcOffset=8">
-</div> -->
-
 ### Codewars:
 [![codewars](https://www.codewars.com/users/hardaoko/badges/large)](https://www.codewars.com/users/hardaoko)
 
@@ -37,6 +22,5 @@
 ### 📧 Почта: srg.podkopaev@yandex.ru
 ### 🌐 Telegram: [@Helicoptapaev](https://t.me/Helicoptapaev)
 
-<!-- ![](https://komarev.com/ghpvc/?username=hardaoko&style=flat-square&color=blueviolet) -->
 
 
